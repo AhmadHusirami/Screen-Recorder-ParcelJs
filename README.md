@@ -38,7 +38,7 @@ The project was initially developed by [Ahamd Said Husirami]
 
 2. Then in terminal clone the repository.
    ```sh
-   git clone 
+   git clone https://github.com/AhmadHusirami/Screen-Recorder-ParcelJs.git
    ```
 3. Open the newly created screenREC folder in your desired Code Editor (eg: VS CODE)
 4. Install the required npm packages
