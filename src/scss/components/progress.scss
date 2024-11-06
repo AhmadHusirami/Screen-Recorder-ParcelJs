@@ -1,0 +1,23 @@
+&__progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 101vw;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  height: 0.6rem;
+  background: $main-gradient;
+  animation: fill 0.8s $bezier-curve;
+}
+
+.sh__progress {
+  width: 101vw;
+  height: .6rem;
+  background: linear-gradient(to right, #272727 0%, #d0c32a 40%, #0c63ff 80%);
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  animation: .8s cubic-bezier(.6, -.05, .01, .99) fill;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
