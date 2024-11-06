@@ -29,7 +29,6 @@ The project was initially developed by [Ahamd Said Husirami]
 5. Click the green button to pause/resume recording, and the red button to stop.
 6. You can play your video in the browser, or click "Download now" to download.
 
-https://user-images.githubusercontent.com/70798495/197354300-9ca7a871-cafa-4883-9926-678bc1c173a7.mp4
 
 ## Developer's Guide :
 
